@@ -1,0 +1,61 @@
+
+    body {
+        background-color:#fff;
+        color:#757575;
+        font-family: Helvetica, sans-serif;
+        overflow-x:hidden; 
+        letter-spacing:1px;
+        background-image:url('http://laurenbrowncreative.com/wp-content/uploads/2016/07/Fruit_pattern-01.png');
+        background-attachment:fixed;
+        background-repeat:repeat;
+    }
+    
+    .container {
+        position:relative;
+        background-color:#ffffff;
+        width:500px;
+        height:535px;
+        margin:auto;
+        margin-top:50px;
+        border-radius: 20px 20px 20px 20px;
+        padding-bottom:10px;
+    }
+    
+    .title {
+        border-radius: 20px 20px 1px 1px;
+        text-align:center;
+        background-color:darkorchid; 
+    }
+
+    h1 {
+        letter-spacing: 5px;
+        color:#ffffff;
+        padding:10px;
+    }
+
+    ul {
+        list-style-position: outside;
+        list-style-type: square;
+        width:425px;
+    }
+    li { 
+        border-bottom: 1px #f4f4f4 solid;
+        padding:5px;
+    }
+    .fruits{
+        background-color:#ffffff; 
+        padding:5px;
+    }
+
+    .fruits img{
+        margin-left:110px;
+        width:250px;
+        height:200px;
+    }
+
+    .footer {
+        color:#fff;
+        text-align: center;
+        margin-top:5px;
+        font-size:10px;
+    }
